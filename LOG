@@ -44,14 +44,22 @@ Algorithms should:
 5. the algorithm should complete in a finite amount of time. 
 
 Algorithm are evaluated based on: 
-1. Correctness 
-2. Efficiency -- time and space complexity. The shorter time you complete a task is efficient. The amount of memory taken up in the computer is also important.  
+1. Correctness -- (input > problem = output) algorithm is correct is every run of the algorithm against any possible value on the input, we get the output we expect. 
+Part of correctness means that for every possible input, the algorithm should always terminate or end. If both is not true, then the algorithm is not correct.
+2. Efficiency -- it is important so we can solve problems much faster and we can deliver a better end-user experience. There are two measures of efficiency in 
+algorithms. TIME and SPACE complexity. The shorter time you complete a task is efficient. The amount of memory taken up in the computer is also important.  
+
+Linear Search 
+Binary Search 
+
+Big O - Theoretical definition of the complexity of an algorithm as a function of a size. 
 
 
 
 Useful Links: 
 1. https://www.linkedin.com/pulse/my-ideal-coding-bootcamp-raymond-gan/
 2. https://www.youtube.com/watch?v=8hly31xKli0
+3. https://www.bigocheatsheet.com/
 
 
 
