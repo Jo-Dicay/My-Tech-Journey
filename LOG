@@ -1,7 +1,7 @@
 Day 1: April 11, 2022 Monday
 Graduated BS Ecotourism 2018. Went to Europe December of 2019. Decided to come back home around March 2022. Realized that I spent 2 years abroad helping 
-my host family, travelling EU, pandemic happened, eventually getting depressed, and realized after those years I didn't learn new skills to improve myself
-After returning home, I decided to upskill by learning new technologies to increase chances of hireability so I could shift my career to IT. 
+my host family, travelling EU, pandemic happened, eventually getting depressed, and realized after those years I didn't learn new skills to improve myself.
+After returning home, I decided to upskill so I could shift my career to IT. 
 
 Registered in freecodecamp to learn the fundamentals of programming/web development. Not yet sure if this is for me, but I will try anyway. 
 Applied for coursera financial aid, Getting started with Python, Getting started with Google Workspace Specialization, and 
@@ -52,13 +52,13 @@ needs to bounce between these two measures to be useful.
 
 Example: you can have a fast algorithm, but it would not matter if your algorithm consumes a lot of memory than you have available. 
 
-Linear Search - sequential 
-Binary Search - 
+Linear Search - sequential search 
+Binary Search - dividing the range of values narrowing it down until you get the correct value. 
 
-Big O - Theoretical definition of the complexity of an algorithm as a function of a size. 
+Big O - Theoretical definition of the complexity of an algorithm as a function of a size. Or notation to describe complexity. 
 1. O(n) or Constant Time - same amount of runtime regardless of the size of n. 
 2. O(log n) or Logarithmic Time - concept of binary search. Logarithmic runtime. They are preferred because they are efficient. It narrows down the search 
-by dividing the items until you are left with the correct one. 
+by dividing the items until you are left with the correct value. 
 
 
 Useful Links: 
