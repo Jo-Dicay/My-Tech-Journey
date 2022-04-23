@@ -50,10 +50,10 @@ Part of correctness means that for every possible input, the algorithm should al
 algorithms. TIME and SPACE complexity. The shorter time you complete a task is efficient. Deals with the amount of memory taken up in the computer. Good algorithms 
 needs to bounce between these two measures to be useful. 
 
-Example: you can have a fast algorithm, but it would not matter if your algorithm consumes a lot of memory than you have. 
+Example: you can have a fast algorithm, but it would not matter if your algorithm consumes a lot of memory than you have available. 
 
-Linear Search 
-Binary Search 
+Linear Search - sequential 
+Binary Search - 
 
 Big O - Theoretical definition of the complexity of an algorithm as a function of a size. 
 
