@@ -56,7 +56,9 @@ Linear Search - sequential
 Binary Search - 
 
 Big O - Theoretical definition of the complexity of an algorithm as a function of a size. 
-
+1. O(n) or Constant Time - same amount of runtime regardless of the size of n. 
+2. O(log n) or Logarithmic Time - concept of binary search. Logarithmic runtime. They are preferred because they are efficient. It narrows down the search 
+by dividing the items until you are left with the correct one. 
 
 
 Useful Links: 
