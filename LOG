@@ -34,6 +34,14 @@ Day 4: April 23, 2022 Saturday
 Read a linkedin article about "How to TRULY be competitive for Software Jobs" 
 Found out that it is very important to learn fundamentals CS knowledge. Started watching "Algorithms and Data Structures Tutorial - Full Course for Beginners"
 
+Introduction to Algorithms
+( Playing a Counting Game )
+0:25 - What Is an Algorithm?
+6:50 - Guess the Number
+12:46 - Defining an Algorithm
+21:15 - Evaluating Linear Search
+29:58 - Evaluating Binary Search
+
 Algorithms - a set of steps/instructions to complete a task. 
 
 Algorithms should: 
@@ -58,7 +66,7 @@ Binary Search - dividing the range of values narrowing it down until you get the
 Big O - Theoretical definition of the complexity of an algorithm as a function of a size. Or notation to describe complexity. 
 It is used to classify algorithms according to how their run time or space requirements grow as the input size grows.
 
-1. O(n) or Constant Time - same amount of runtime regardless of the size of n. 
+1. O(1) or Constant Time - same amount of runtime regardless of the size of n. 
 2. O(log n) or Logarithmic Time - concept of binary search. Logarithmic runtime. They are preferred because they are efficient. It narrows down the search 
 by dividing the items until you are left with the correct value. Inputs has to be sorted. 
 
@@ -71,13 +79,14 @@ Useful Links:
 Day 4: April 24, 2022 Sunday
 Continued watching Data Structures and Algorithms.
 
+Introduction to Algorithms
 ( Time Complexity )
-Efficiency of an Algorithm
-Constant and Logarithmic Time
-Linear & Quadratic Time
-Quasilinear Time
-Exponential Time
-Determining Complexity
+36:11 - Efficiency of an Algorithm
+42:39 - Constant and Logarithmic Time
+49:11 - Linear & Quadratic Time
+53:48 - Quasilinear Time
+56:23 - Exponential Time
+1:04:23 - Determining Complexity
 
 -------
 
@@ -96,5 +105,15 @@ Factorial / Combinatorial Runtime
 "We use the worst case scenario as benchmark. Because nothing can be worst than a worst case scenario."
 
 How do we determine the worst case complexity of an algorithm? 
+
+Points discussed: 
+1. Algorithm 
+2. Complexities 
+3. Big O 
+
+( Algorithms in Code )
+1:08:22 - Linear Search in Code
+1:18:02 - Binary Search in Code
+1:28:06 - Recursive Binary Search
 
 
