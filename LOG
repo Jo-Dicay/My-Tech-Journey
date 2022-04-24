@@ -56,10 +56,11 @@ Linear Search - sequential search
 Binary Search - dividing the range of values narrowing it down until you get the correct value. 
 
 Big O - Theoretical definition of the complexity of an algorithm as a function of a size. Or notation to describe complexity. 
+It is used to classify algorithms according to how their run time or space requirements grow as the input size grows.
+
 1. O(n) or Constant Time - same amount of runtime regardless of the size of n. 
 2. O(log n) or Logarithmic Time - concept of binary search. Logarithmic runtime. They are preferred because they are efficient. It narrows down the search 
-by dividing the items until you are left with the correct value. 
-
+by dividing the items until you are left with the correct value. Inputs has to be sorted. 
 
 Useful Links: 
 1. https://www.linkedin.com/pulse/my-ideal-coding-bootcamp-raymond-gan/
@@ -67,5 +68,33 @@ Useful Links:
 3. https://www.bigocheatsheet.com/
 
 
+Day 4: April 24, 2022 Sunday
+Continued watching Data Structures and Algorithms.
+
+( Time Complexity )
+Efficiency of an Algorithm
+Constant and Logarithmic Time
+Linear & Quadratic Time
+Quasilinear Time
+Exponential Time
+Determining Complexity
+
+-------
+
+3. O(n) or Linear Time -  the algorithm has to sequentially read its entire input.
+4. O (n^2) or Quadratic Time - an algorithm whose performance is directly proportional to the squared size of the input data set (think of Linear, but squared).
+5. O (n log n) or Quasilinear Runtime - 
+6. O (n!) or Exponential Time - 
+
+Factorial / Combinatorial Runtime
+3 Values = 3! 
+3x2x1 = 6 
+
+4 Values 4! 
+4x3x2x1 = 24 
+
+"We use the worst case scenario as benchmark. Because nothing can be worst than a worst case scenario."
+
+How do we determine the worst case complexity of an algorithm? 
 
 
