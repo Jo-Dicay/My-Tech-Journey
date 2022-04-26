@@ -126,7 +126,14 @@ My coursera financial aid got approved today.
 Python for Everybody
 https://github.com/csev/py4e
 
+it is important to know which folders things are being run in. 
+make sure you are in the same folder.
 
+1. cmd > py >>> chevron prompt (print)
+2. ctrl + z (back to the prompt)
+3. dir (checking the folders you're in)
+4. cd Desktop (change directory and open Desktop) > dir > open folder 
+5. python first.py or py first.py (run it)
 
 
 
